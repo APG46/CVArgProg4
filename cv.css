@@ -1,0 +1,70 @@
+body {
+    background-color: lightblue;
+}
+
+header {
+    font-size: xx-large;
+    font-weight: bolder;
+    background-color: black;
+    color: white;
+    margin: 20px;
+}
+
+div {
+    background-color: gainsboro;
+    border: 1px solid black;
+    padding: 12px;
+}
+h1 {
+    background-color: gray;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: gold;
+}
+h2 {
+    background-color: gainsboro;
+    padding: 5px;
+    font-weight: bolder;
+    color: dodgerblue;
+}
+span {
+    font-weight: bolder;
+    color: mediumblue;
+}
+
+h3 {
+    font-weight: bold;
+    color: darkblue;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+p {
+    font-weight: bold;
+    color: navy;
+}
+
+img {
+    float: right;
+    border-radius: 60%;
+}
+
+section#perfil {
+    background-color: aquamarine;
+    border: 1px solid blue;
+    padding: 10px;
+}
+
+section#educación {
+    background-color: darkgrey;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+section#contactar {
+    background-color: darkgray;
+    border: 1px solid black;
+    padding: 10px;
+}
